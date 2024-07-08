@@ -4,10 +4,9 @@
 To run this portfolio locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/nauvaltri/portoversion2-naufal.git`
-2. Navigate to the project directory: `cd rishav-chanda-portfolio`
-3. Install the dependencies: `npm install`
-4. Start the development server: `npm start`
-5. Open your browser and visit: `http://localhost:3000`
+2. Install the dependencies: `npm install`
+3. Start the development server: `npm start`
+4. Open your browser and visit: `http://localhost:3000`
 
 
 
