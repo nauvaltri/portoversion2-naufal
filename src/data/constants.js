@@ -250,7 +250,7 @@ export const projects = [
       "Github",
 
     ],
-    category: "Frontend Develop",
+    category: "Fronted Develop",
     github: "https://github.com/nauvaltri/Silaboe-FE-V2.git",
 
   },
