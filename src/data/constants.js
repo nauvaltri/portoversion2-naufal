@@ -250,7 +250,7 @@ export const projects = [
       "Github",
 
     ],
-    category: "Web App",
+    category: "Frontend Develop",
     github: "https://github.com/nauvaltri/Silaboe-FE-V2.git",
 
   },
@@ -279,7 +279,7 @@ export const projects = [
       "Flutter",
 
     ],
-    category: "web app",
+    category: "Design",
     github: "https://www.figma.com/proto/GkaseRkz9YWlwyUEw6fSgo/Untitled?page-id=0%3A1&node-id=1-1436&viewport=1730%2C2567%2C0.75&t=ET9wLJK6oqmQMvEp-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=17%3A681&show-proto-sidebar=1",
   
   },
@@ -306,7 +306,7 @@ export const projects = [
     image: gambar6,
       
     tags: ["Figma","Canva"],
-    category: "android app",
+    category: "Design",
     github: "https://www.figma.com/proto/ybj34xwjnWC9wc6h2O7Mpn/SkinDiary?page-id=0%3A1&node-id=5-5462&viewport=45%2C1390%2C0.29&t=nizXyxKhe9FZBKjq-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=5%3A5462",
 
   },
@@ -320,7 +320,7 @@ export const projects = [
     image: gambar7,
      
     tags: ["Figma"],
-    category: "Desain",
+    category: "Design",
     github: "https://www.figma.com/design/JcwxE7h330nsdDioqzjdzz/UI%2FUX-Web-Design-Suidmedia?node-id=0-1&t=uBH30Vh9pMfGAutG-1",
     
   },
@@ -345,7 +345,7 @@ export const projects = [
     image: gambar10,
       
     tags: ["HTML","Css","Java Script","Figma","Github"],
-    category: "web app ",
+    category: "Frontend Develop",
     github: "https://github.com/nauvaltri/Profilekuu.git",
   },
   {
@@ -357,7 +357,7 @@ export const projects = [
     image: gambar9,
       
     tags: ["React Js","CSS"],
-    category: "android app",
+    category: "Frontend Develop",
     github: "https://github.com/nauvaltri/portonaufaltrisubakti.git",
     
   },
@@ -369,7 +369,7 @@ export const projects = [
       "Building a personal portfolio website platform version two using the Next JS framework and CSS for styling.This portfolio presents various kinds of information about myself",
     image:gambar11,
     tags: ["Next Js","CSS"],
-    category: "Design",
+    category: "Frontend Develop",
     github: "https://github.com/nauvaltri/portoversion2-naufal.git",
 
   },
@@ -381,7 +381,7 @@ export const projects = [
       "Creating realistic object modeling with 3D design through rendering.",
     image:gambar12,
     tags: ["Blender"],
-    category: "Design",
+    category: "Animation",
     github: "https://drive.google.com/drive/folders/1P5xbgvDQHQP43xcO4HLF_6aZgg2p6vUn]",
 
   },
