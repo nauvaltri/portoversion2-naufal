@@ -8,6 +8,10 @@ import gambar7 from "../images/concert.png";
 import gambar8 from "../images/asakitasama.png";
 import gambar9 from "../images/Porto v1.png";
 import gambar10 from "../images/profile.png";
+import gambar11 from "../images/Portofolio v2.png";
+import gambar12 from "../images/3d design.png";
+
+
 
 
 
@@ -363,11 +367,22 @@ export const projects = [
     date: "2024",
     description:
       "Building a personal portfolio website platform version two using the Next JS framework and CSS for styling.This portfolio presents various kinds of information about myself",
-    image:
-      "https://dontrepeatyourself.org/media/face-recognition-with-python-dlib-and-deep-learning_cezKZBj.png",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
+    image:gambar11,
+    tags: ["Next Js","CSS"],
     category: "Design",
-    github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+    github: "https://github.com/nauvaltri/portoversion2-naufal.git",
+
+  },
+  {
+    id: 9,
+    title: "3D Design",
+    date: "2024",
+    description:
+      "Creating realistic object modeling with 3D design through rendering.",
+    image:gambar12,
+    tags: ["Blender"],
+    category: "Design",
+    github: "https://drive.google.com/drive/folders/1P5xbgvDQHQP43xcO4HLF_6aZgg2p6vUn]",
 
   },
 ];
