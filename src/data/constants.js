@@ -345,7 +345,7 @@ export const projects = [
     image: gambar10,
       
     tags: ["HTML","Css","Java Script","Figma","Github"],
-    category: "Frontend Develop",
+    category: "Fronted Develop",
     github: "https://github.com/nauvaltri/Profilekuu.git",
   },
   {
@@ -357,7 +357,7 @@ export const projects = [
     image: gambar9,
       
     tags: ["React Js","CSS"],
-    category: "Frontend Develop",
+    category: "Fronted Develop",
     github: "https://github.com/nauvaltri/portonaufaltrisubakti.git",
     
   },
@@ -369,7 +369,7 @@ export const projects = [
       "Building a personal portfolio website platform version two using the Next JS framework and CSS for styling.This portfolio presents various kinds of information about myself",
     image:gambar11,
     tags: ["Next Js","CSS"],
-    category: "Frontend Develop",
+    category: "Fronted Develop",
     github: "https://github.com/nauvaltri/portoversion2-naufal.git",
 
   },
