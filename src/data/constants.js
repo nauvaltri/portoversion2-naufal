@@ -231,7 +231,7 @@ export const projects = [
       "Trello",
       "Github",
     ],
-    category: "Web App",
+    category: "Fronted Develop",
     github: "https://github.com/nauvaltri/Sillaboe-V1-TRPL",
     
   },

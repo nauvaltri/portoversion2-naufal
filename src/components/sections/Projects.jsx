@@ -123,8 +123,8 @@ const Projects = ({ openModal, setOpenModal }) => {
           </ToggleButton>
           <Divider />
           <ToggleButton
-            active={toggle === "Web App"}
-            onClick={() => setToggle("Web App")}
+            active={toggle === "Fronted Develop"}
+            onClick={() => setToggle("Fronted Develop")}
           >
             FrontEnd Develop
           </ToggleButton>
