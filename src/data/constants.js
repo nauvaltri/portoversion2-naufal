@@ -376,6 +376,5 @@ export const projects = [
     tags: ["Blender"],
     category: "Animation",
     github: "https://drive.google.com/drive/folders/1P5xbgvDQHQP43xcO4HLF_6aZgg2p6vUn]",
-
   },
 ];
