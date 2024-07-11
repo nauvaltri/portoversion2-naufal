@@ -332,13 +332,13 @@ export const projects = [
     
   },
   {
-    id: 13,
+    id: 12,
     title: "Shoes Store",
     date: "2024",
     description:
 
 "Create a user experience website for buying and selling shoes using UI/UX and motion principles.",
-    image: gambar8,
+    image: gambar13,
     tags: ["Figma"],
     category: "Design",
     github: "https://www.figma.com/design/6EJOEQqdop2dNYNEBFSNRd/Portofolio-Asakitasama?node-id=0-1&t=gdwvoXTBJKkYhAvB-1",
