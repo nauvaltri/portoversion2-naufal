@@ -10,6 +10,8 @@ import gambar9 from "../images/Porto v1.png";
 import gambar10 from "../images/profile.png";
 import gambar11 from "../images/Portofolio v2.png";
 import gambar12 from "../images/3d design.png";
+import gambar13 from "../images/shoe store.png";
+
 
 
 export const Bio = {
@@ -330,6 +332,19 @@ export const projects = [
     
   },
   {
+    id: 13,
+    title: "Shoes Store",
+    date: "2024",
+    description:
+
+"Create a user experience website for buying and selling shoes using UI/UX and motion principles.",
+    image: gambar8,
+    tags: ["Figma"],
+    category: "Design",
+    github: "https://www.figma.com/design/6EJOEQqdop2dNYNEBFSNRd/Portofolio-Asakitasama?node-id=0-1&t=gdwvoXTBJKkYhAvB-1",
+    
+  },
+  {
     id: 6,
     title: "Profile Web",
     date: "2023",
@@ -367,7 +382,7 @@ export const projects = [
 
   },
   {
-    id: 9,
+    id: 10,
     title: "3D Design",
     date: "2024",
     description:
