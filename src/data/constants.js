@@ -275,7 +275,7 @@ export const projects = [
 
     ],
     category: "Design",
-    github: "https://www.figma.com/proto/GkaseRkz9YWlwyUEw6fSgo/Untitled?page-id=0%3A1&node-id=1-1436&viewport=1730%2C2567%2C0.75&t=ET9wLJK6oqmQMvEp-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=17%3A681&show-proto-sidebar=1",
+    github: "https://www.figma.com/proto/GkaseRkz9YWlwyUEw6fSgo/REVIVE-SMART-CITY-APPS?page-id=0%3A1&node-id=1-2098&viewport=1281%2C1164%2C0.29&t=hiM3vJNNrdiRZUvp-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=17%3A681&show-proto-sidebar=1",
   
   },
   {
